@@ -1,5 +1,7 @@
 body {
   /*background: #fff;*/
+  height:100%; or min-height:500px;
+  width: 1000px;
   background-image: url('http://www.sarahschultz.info/images/scribs.png');
   background-repeat: repeat;
   font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
