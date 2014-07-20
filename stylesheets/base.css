@@ -1,5 +1,8 @@
 body {
   background: #fff;
+  background-image: url('/images/scribs.png');
+  background-repeat: repeat;
   font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #444;
+
 }
