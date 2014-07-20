@@ -1,10 +1,12 @@
-body {
+h1 h2 img {
   /*background: #fff;*/
+  margin-left: 100px;
+  font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+}
+body {
   height:1000px;
   width: 1000px;
   background-image: url('../images/scribs.png');
   background-repeat: repeat-y;
-  font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #444;
-
 }
