@@ -10,7 +10,7 @@ body {
   background-image: url('../images/scribs.png');
   background-repeat: repeat-y;
 }
-ul {
+li {
   list-style-type: none;
 }
 
