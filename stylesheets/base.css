@@ -4,15 +4,22 @@
   font: 21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #444;
 }
+
 body {
-  height:1000px;
-  width: 1000px;
+  width: 80%;
+  margin: auto;
+  word-wrap: break-word;
   background-image: url('../images/scribs.png');
   background-repeat: repeat-y;
 }
 li {
   list-style-type: none;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 
 #social-icons {
   margin: 1px;
