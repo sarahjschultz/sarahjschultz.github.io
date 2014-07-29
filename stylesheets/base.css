@@ -15,6 +15,8 @@ img {
 .boss {
   background-color: #C2C2C2;
 }
+.boss:hover { color: white; background: #FF0000; }
+
 .container {
   margin-left: 115px;
   font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
