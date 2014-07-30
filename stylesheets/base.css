@@ -1,9 +1,8 @@
 body {
-  width: ;
-  margin: auto;
+  margin: 35px;
   word-wrap: break-word;
-  background-image: url('../images/scribs.png');
-  background-repeat: repeat-y;
+/*  background-image: url('../images/scribs.png');
+  background-repeat: repeat-y;*/
 }
 li {
   list-style-type: none;
@@ -17,11 +16,14 @@ img {
 }
 .boss:hover { color: white; background: #FF0000; }
 
-.intro {
-  margin-left: 115px;
+.container {
+  /*margin-left: 115px;*/
   font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:       #444;
   line-height: 140%;
+  background-color: lightpink;
+  max-width: 1024px;
+  margin: auto;
 }
 #social-links {
   margin: 1px;
