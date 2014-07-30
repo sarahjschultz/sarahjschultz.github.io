@@ -25,6 +25,10 @@ img {
   max-width: 1024px;
   margin: auto;
 }
+.right-col {
+  background-color:powderblue;
+}
+
 #social-links {
   margin: 1px;
   padding: 2px;
