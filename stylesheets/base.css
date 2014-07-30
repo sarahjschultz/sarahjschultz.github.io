@@ -17,7 +17,7 @@ img {
 }
 .boss:hover { color: white; background: #FF0000; }
 
-.container {
+.intro {
   margin-left: 115px;
   font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:       #444;
@@ -27,10 +27,8 @@ img {
   margin: 1px;
   padding: 2px;
 }
-.social-side-bar {
-  margin-right: 95px;
-  text-align: left;
-}
+
+
 
 /* #Links
 ========================================== */
