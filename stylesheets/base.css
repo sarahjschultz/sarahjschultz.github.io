@@ -28,9 +28,22 @@ img {
 
 /* #Tables
 ========================================== */
-table.main { width: 100%;}
-td.content { padding-left: 4em; width: 30em}
-.sidebar { padding-left: 2em; text-align: right; color: #444; padding-right: .5em; max-width: 20em; float: right;}
+table.main {
+  width: 100%;
+}
+td.content {
+  padding-left: 4em;
+  width: 30em
+}
+.sidebar {
+  border: dotted;
+  padding-left: 2em;
+  text-align: right;
+  color: #444;
+  padding-right: .5em;
+  max-width: 20em;
+  float: right;
+}
 
 
 /* #Links
