@@ -4,12 +4,10 @@ body {
 /*  background-image: url('../images/scribs.png');
   background-repeat: repeat-y;*/
 }
-li {
-  list-style-type: none;
-}
 img {
   max-width: 100%;
   height: auto;
+  margin: 2px;
 }
 .boss {
   background-color: #C2C2C2;
@@ -24,16 +22,15 @@ img {
   background-color: lightpink;
   max-width: 1024px;
   margin: auto;
-}
-.right-col {
-  background-color:powderblue;
-}
-
-#social-links {
-  margin: 1px;
-  padding: 2px;
+  margin-bottom: 200px;
+  position: relative;
 }
 
+/* #Tables
+========================================== */
+table.main { width: 100%;}
+td.content { padding-left: 4em; width: 30em}
+.sidebar { padding-left: 2em; text-align: right; color: #444; padding-right: .5em; max-width: 20em; float: right;}
 
 
 /* #Links
