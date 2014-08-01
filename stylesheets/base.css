@@ -25,6 +25,21 @@ img {
   margin-bottom: 200px;
   position: relative;
 }
+.resume-container{
+  font:        14px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:       #444;
+  line-height: 100%;
+  background-color: lightgray;
+  max-width: 1280px;
+  margin: auto;
+  position: relative;
+}
+.resume-children{
+  color: black;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
 
 /* #Tables
 ========================================== */
