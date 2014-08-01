@@ -26,7 +26,7 @@ img {
   position: relative;
 }
 .bark {
-  background-image: url("/images/tree_bark.png");
+  /*background-image: url("/images/tree_bark.png");*/
 }
 .resume-container{
   font:        14px/14px Courier;
@@ -40,7 +40,8 @@ img {
   color: black;
   padding-left: 30px;
   padding-right: 30px;
-  background-color: lightgray;
+  border: dotted;
+  background-color: transparent;
 
 }
 
