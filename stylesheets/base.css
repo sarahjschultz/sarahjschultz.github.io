@@ -19,6 +19,8 @@ img {
   color:       #444;
   line-height: 140%;
   background-image: url("/images/sweater.png");
+  border-top: dotted;
+  border-bottom: dotted; 
   max-width: 1024px;
   margin: auto;
   margin-bottom: 200px;
