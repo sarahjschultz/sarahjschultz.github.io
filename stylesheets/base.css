@@ -20,7 +20,7 @@ img {
   line-height: 140%;
   background-image: url("/images/sweater.png");
   border-top: dotted;
-  border-bottom: dotted; 
+  border-bottom: dotted;
   max-width: 1024px;
   margin: auto;
   margin-bottom: 200px;
@@ -49,7 +49,7 @@ img {
 
 /* #Tables
 ========================================== */
-table.main {
+table {
   width: 100%;
 }
 td.content {
@@ -60,11 +60,10 @@ td.content {
   font: 16px/14px Courier;
   border: dotted;
   padding-left: 2em;
-  text-align: right;
   color: #444;
   padding-right: .5em;
-  max-width: 20em;
-  float: right;
+  max-width: 1024px;
+  margin: auto;
 }
 
 
