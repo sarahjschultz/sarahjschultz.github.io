@@ -55,6 +55,7 @@ td.content {
   width: 30em
 }
 .sidebar {
+  font: 16px/14px Courier;
   border: dotted;
   padding-left: 2em;
   text-align: right;
