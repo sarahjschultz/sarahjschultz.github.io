@@ -40,7 +40,8 @@ img {
   color: black;
   padding-left: 30px;
   padding-right: 30px;
-  border: dotted;
+  border-top: dotted;
+  border-top-width: thin;
   background-color: transparent;
 
 }
