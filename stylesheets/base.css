@@ -1,8 +1,7 @@
 body {
   margin: 35px;
   word-wrap: break-word;
-/*  background-image: url('../images/scribs.png');
-  background-repeat: repeat-y;*/
+  background-image: url("/images/p5.png");
 }
 img {
   max-width: 100%;
@@ -19,10 +18,11 @@ img {
   font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:       #444;
   line-height: 140%;
-  background-color: lightpink;
+  background-image: url("/images/sweater.png");
   max-width: 1024px;
   margin: auto;
   margin-bottom: 200px;
+  padding: 10px;
   position: relative;
 }
 .bark {
@@ -43,7 +43,6 @@ img {
   border-top: dotted;
   border-top-width: thin;
   background-color: transparent;
-
 }
 
 /* #Tables
