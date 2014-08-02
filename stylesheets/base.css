@@ -34,7 +34,8 @@ img {
 .resume-container{
   font:        14px/14px Courier;
   color:       #444;
-  line-height: 100%;
+  line-height: 110%;
+  text-align: left;
   max-width: 1280px;
   margin: auto;
   position: relative;
