@@ -28,8 +28,11 @@ img {
   padding: 10px;
   position: relative;
 }
-.bark {
-  /*background-image: url("/images/tree_bark.png");*/
+.header-container{
+  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:       #444;
+  line-height: 180%;
+  width: 500px;
 }
 .resume-container{
   font:        14px/14px Courier;
