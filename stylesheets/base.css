@@ -30,9 +30,10 @@ img {
 }
 .gif-container {
   background-color: white;
+  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:            #444;
   line-height:      110%;
-  text-align:       left;
+  text-align:       center;
   max-width:        1280px;
   margin:           auto;
   position:         relative;
