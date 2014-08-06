@@ -32,11 +32,15 @@ img {
   background-color: white;
   font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:            #444;
-  line-height:      110%;
-  text-align:       center;
-  max-width:        1280px;
+  line-height:      130%;
+  text-align:       left;
+  max-width:        900px;
   margin:           auto;
   position:         relative;
+}
+.gif-header {
+  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align:       center;
 }
 
 .header-container{
