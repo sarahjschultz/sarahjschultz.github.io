@@ -36,6 +36,10 @@ img {
   text-align:       left;
   max-width:        900px;
   margin:           auto;
+  padding-top:      2px;
+  padding-left:     20px;
+  padding-right:    20px;
+  padding-bottom:   2px;
   position:         relative;
 }
 .gif-header {
