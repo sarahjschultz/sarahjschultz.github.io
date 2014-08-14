@@ -1,12 +1,20 @@
 body {
   margin: 35px;
   word-wrap: break-word;
-  background-image: url("/images/p5.png");
+  background-attachment: fixed;
+  background-image: url("/images/subtle_zebra_3d.png");
 }
 img {
   max-width: 100%;
   height: auto;
   margin: 2px;
+}
+footer {
+  border-top:
+  border-color: black;
+  background-color: #444;
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+  color: #f5f5f5;
 }
 .boss {
   background-color: #C2C2C2;
