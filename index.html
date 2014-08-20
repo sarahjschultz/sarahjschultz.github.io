@@ -43,9 +43,8 @@
 
         <script type="text/javascript">
             function partyClick() {
-                var body = document.getElementById('body');
-                body.style.backgroundImage = 'url("/images/party.png")';
-                alert("Let's party!");
+                $(body).addClass('partyimage');
+                window.onload=alert("Let's party!");
                 return false;
             };
         </script>
