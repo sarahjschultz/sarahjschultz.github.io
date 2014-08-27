@@ -1,21 +1,23 @@
 body {
-  margin: 35px;
-  word-wrap: break-word;
+  margin:                35px;
+  word-wrap:             break-word;
   background-attachment: fixed;
-  background-image: url("/images/subtle_zebra_3d.png");
+  background-image:      url("/images/subtle_zebra_3d.png");
 }
+
 img {
   max-width: 100%;
-  height: auto;
-  margin: 2px;
+  height:    auto;
+  margin:    2px;
 }
+
 footer {
-  border-top:
-  border-color: black;
+  border-top: border-color: black;
   background-color: #444;
-  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;;
-  color: #f5f5f5;
+  font-family:      "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+  color:            #f5f5f5;
 }
+
 .partyimage {
   background-image: url("/images/party.png");
 }
@@ -23,27 +25,31 @@ footer {
 .boss {
   background-color: #C2C2C2;
 }
-.boss:hover { color: white; background: #FF0000; }
+
+.boss:hover {
+  color:      white;
+  background: #FF0000;
+}
 
 .container {
   /*margin-left: 115px;*/
-  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:       #444;
-  line-height: 140%;
+  font:             21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:            #444;
+  line-height:      140%;
   background-image: url("/images/sweater.png");
-  border-top: dotted;
-  border-bottom: dotted;
-  border-color: dimgray;
-  max-width: 1024px;
-  margin: auto;
-  margin-bottom: 200px;
-  padding: 10px;
-  position: relative;
+  border-top:       dotted;
+  border-bottom:    dotted;
+  border-color:     dimgray;
+  max-width:        1024px;
+  margin:           auto;
+  margin-bottom:    200px;
+  padding:          10px;
+  position:         relative;
 }
 
 .gif-container {
   background-color: white;
-  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:             21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:            #444;
   line-height:      130%;
   text-align:       left;
@@ -55,31 +61,34 @@ footer {
   padding-bottom:   2px;
   position:         relative;
 }
+
 .gif-header {
-  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-align:       center;
+  font:       21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 
-.header-container{
+.header-container {
   font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:       #444;
   line-height: 180%;
-  width: 490px;
+  width:       490px;
 }
-.resume-container{
+
+.resume-container {
   font:        14px/14px Courier;
   color:       #444;
   line-height: 110%;
-  text-align: left;
-  max-width: 1280px;
-  margin: auto;
-  position: relative;
+  text-align:  left;
+  max-width:   1280px;
+  margin:      auto;
+  position:    relative;
 }
-.resume-children{
-  color: black;
-  padding-left: 30px;
-  padding-right: 30px;
-  border-top: dotted;
+
+.resume-children {
+  color:            black;
+  padding-left:     30px;
+  padding-right:    30px;
+  border-top:       dotted;
   border-top-width: thin;
   background-color: transparent;
 }
@@ -89,31 +98,46 @@ footer {
 table {
   width: 100%;
 }
+
 td.content {
   padding-left: 4em;
-  width: 30em
-}
-.sidebar {
-  font: 16px/14px Courier;
-  color: #444;
-  text-align: right;
-  vertical-align: top;
-  border-left: dotted;
-  padding-left: 2em;
-  padding-right: .5em;
-  max-width: 1024px;
-  margin: auto;
+  width:        30em
 }
 
+.sidebar {
+  font:           16px/14px Courier;
+  color:          #444;
+  text-align:     right;
+  vertical-align: top;
+  border-left:    dotted;
+  padding-left:   2em;
+  padding-right:  .5em;
+  max-width:      1024px;
+  margin:         auto;
+}
 
 /* #Links
 ========================================== */
-  a { text-decoration: none; }
-  /* unvisited link */
-  a:link { color: #FF0000; }
-  /* visited link */
-  a:visited { color: #00FF00; }
-  /* mouse over link */
-  a:hover { color: #FF00FF; }
-  /* selected link */
-  a:active { color: #0000FF; }
+a {
+  text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+  color: #0000FF;
+}
