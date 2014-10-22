@@ -4,5 +4,5 @@ This is a personal website that I use mainly for tinkering. It contains the firs
 
 ###BACKGROUND
 -----------------------
-In Dec 2013, I was in a nasty scooter accident. Recovery required a LOT of downtime, and was tremendously boring. This
+In Dec 2013, I was in a nasty scooter accident. Recovery required a LOT of downtime and has been tremendously boring. This
 project helped stave off the boredom.  
