@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About This Project
 
-### More Information
+In December 2013 I got in a pretty lame scooter accident while living in San Francisco. I was
+ pretty limited in the amount of movement I could do, so I figured I would teach myself how to build
+ websites to stave off boredom.
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Contact
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[sarahjschultz@gmail.com](mailto:sarahjschultz@gmail.com)

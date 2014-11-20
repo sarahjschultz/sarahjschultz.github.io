@@ -11,13 +11,6 @@ img {
   margin:    2px;
 }
 
-footer {
-  border-top: border-color: black;
-  background-color: #444;
-  font-family:      "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;;
-  color:            #f5f5f5;
-}
-
 .partyimage {
   background-image: url("/images/party.png");
 }
@@ -37,9 +30,6 @@ footer {
   color:            #444;
   line-height:      140%;
   background-image: url("/images/sweater.png");
-  border-top:       dotted;
-  border-bottom:    dotted;
-  border-color:     dimgray;
   max-width:        1024px;
   margin:           auto;
   margin-bottom:    150px;
@@ -125,11 +115,6 @@ a {
 /* unvisited link */
 a:link {
   color: #FF0000;
-}
-
-/* visited link */
-a:visited {
-  color: #00FF00;
 }
 
 /* mouse over link */
