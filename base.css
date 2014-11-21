@@ -6,16 +6,11 @@ body {
 }
 header {
   line-height: 1;
-  background-attachment: fixed;
-  background-image:      url("/images/subtle_zebra_3d.png");
+  background-image:      url("/images/sweater.png");
   color: #333;
   float: right;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-}
-
-nav {
-  margin-bottom: auto;
 }
 
 img {
