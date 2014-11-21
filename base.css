@@ -4,6 +4,19 @@ body {
   background-attachment: fixed;
   background-image:      url("/images/subtle_zebra_3d.png");
 }
+header {
+  line-height: 1;
+  background-attachment: fixed;
+  background-image:      url("/images/subtle_zebra_3d.png");
+  color: #333;
+  float: right;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+nav {
+  margin-bottom: auto;
+}
 
 img {
   max-width: 100%;
@@ -25,14 +38,12 @@ img {
 }
 
 .container {
-  /*margin-left: 115px;*/
   font:             21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:            #444;
   line-height:      140%;
   background-image: url("/images/sweater.png");
   max-width:        1024px;
   margin:           auto;
-  margin-bottom:    150px;
   padding:          10px;
   position:         relative;
 }
@@ -112,10 +123,10 @@ a {
 }
 /* unvisited link */
 a:link {
-  color: #FF0000;
+  color: #333;
 }
 /* mouse over link */
 a:hover {
-  color: #FF00FF;
+  color: #FF0000;
 }
 
