@@ -13,3 +13,11 @@ header.masthead nav {
 header.masthead h1 {
   width: 60%;
 }
+
+footer a:link {
+  color: black;
+}
+
+footer a:hover {
+  color: red;
+}

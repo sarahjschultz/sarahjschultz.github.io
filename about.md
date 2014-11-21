@@ -8,8 +8,10 @@ permalink: /about/
 
 In December 2013 I got in a pretty lame scooter accident while living in San Francisco. I was
  pretty limited in the amount of movement I could do, so I figured I would teach myself how to build
- websites to stave off boredom.
+ websites.
+
+Soon I'll post a GIF of the evolution of this site, for funsies.
 
 ### Contact
 
-[sarahjschultz@gmail.com](mailto:sarahjschultz@gmail.com)
+You can reach me through various paths [back on the homepage]({{ site.baseurl }}/).
