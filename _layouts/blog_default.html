@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <!--<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>-->
+
+    <title>INFORMATION</title>
+
+    <meta name="author" content="{{ site.name }}"/>
+    <meta name="description" content="{{ site.description }}">
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css"/>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
+          rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/shared.css"/>
+    <link rel="alternate" type="application/rss+xml"
+          title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml"/>
+
+</head>
+
+<body>
+<div class="wrapper-masthead">
+    <div class="container">
+        <header class="masthead clearfix">
+            <h1>Things I Did Wrong</h1>
+            <nav>
+                <a href="{{ site.baseurl }}/">Main</a>
+                <a href="{{ site.baseurl }}/about">About</a>
+                <a href="{{ site.baseurl }}/resume">Resume</a>
+            </nav>
+        </header>
+    </div>
+</div>
+
+<div id="main" role="main" class="container">
+    {{ content }}
+</div>
+
+<div class="wrapper-footer">
+    <div class="container">
+        <footer class="footer">
+            <a href="{{ site.baseurl }}/"><i class="fa fa-arrow-left"></i></a>
+        </footer>
+    </div>
+</div>
+
+{% include analytics.html %}
+</body>
+</html>
