@@ -1,0 +1,15 @@
+header.masthead h1,
+header.masthead nav {
+  display:        inline-block;
+  vertical-align: baseline;
+  float:          none;
+}
+
+header.masthead nav {
+  text-align: right;
+  width:      38%;
+}
+
+header.masthead h1 {
+  width: 60%;
+}
