@@ -5,7 +5,7 @@ title: Code Superheroes
 
 Some of the things in my knowledge journey are technical skills. Others are soft skills.
 
-Today I am learning the soft skill about how important it is for a team to **not** have one person who is the single point of failure.
+Today I am learning the soft skill about recognizing and actively working to prevent a team from having one person who is the single point of failure.
 
 Our company is going through some transitions, and members of the team are probing their inner selves, and some are finding that it is the time to transition to other products/paths/roles/etc.  This is normal and OK and all part of the human experience.
 
