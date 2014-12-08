@@ -15,10 +15,10 @@ And now he is leaving.
 
 And so we are commencing the Most Grand Knowledge Transfer of All Time, and I just keep thinking -- what is the lesson in this?
 
-Beyond learning Chef and how nginx/nagios/resque/Redis/NewRelic work, and beyond understand the specific configuration of our 10 nodes, what is the takeaway?
+Beyond learning Chef and how nginx/nagios/resque/Redis/NewRelic work, and beyond understanding the specific configuration of our 10 nodes, what is the takeaway?
 
 It seems to be that documentation and duplication of knowledge is crucial. That having one person who is a wizard IS cool for awhile -- because they are a wizard and it is awesome to work with a wizard -- until they decide to leave.
 
 Then what? Scramble to try and absorb Wizard Brain, and hope you are bringing your A-game each day and to each 3-hour meeting.
 
-But is there a more sustainable way of architecting a team? I'm curious how other teams manage -- but the silver lining is that I am learning Literally Everything in the process.  
+But is there a more sustainable way of architecting a team? I'm curious how other teams manage -- but the silver lining is that I am learning Literally Everything in the process.
