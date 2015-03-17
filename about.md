@@ -6,12 +6,14 @@ permalink: /about/
 
 ### About This Project
 
-In December 2013 I got in a pretty lame scooter accident while living in San Francisco. I was
- pretty limited in the amount of movement I could do, so I figured I would teach myself how to build
- websites.
+This is the webiverse of Sarah Schultz, person of interest.
 
-Soon I'll post a GIF of the evolution of this site, for funsies.
+In 2013, Sarah was in a scooter accident, while living in San Francisco.
+
+Recovering from this accident was tremendously boring and tedious, so she took the opportunity to finally read all the Ruby and Rails books she had been hoarding.  She now works as a developer and likes to talk to people and laugh at jokes.
+
+She also occasionally updates the blog on this site, called Things I Did Wrong.  TIDW is a manifesto of mistake-making, and helpful reminders about how to not make those mistakes again.  This is likely very useless for you.
 
 ### Contact
 
-You can reach me through various paths [back on the homepage]({{ site.baseurl }}/).
+You can reach Sarah through various paths [back on the homepage]({{ site.baseurl }}/).
