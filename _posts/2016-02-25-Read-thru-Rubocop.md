@@ -20,10 +20,10 @@ Anyway, with Rubocop, I never even have to use a single breath on this issue.
 Not a SINGLE keystroke gets dedicated to that ass-hattery.  
 Why? Because the build just FAILS.  
 
-You don't want to format your code? 
-You refuse to adhere to styleguides?  
+You don't want to format your code?   
+You refuse to adhere to styleguides?    
 
-That's cool, you do you. Your code just...you know, isn't going out.  
+That's cool, you do you. Your code just...you know, isn't going out.    
 
 So it saves me a lot of really silly talking about things that I would  
 rather not talk about.
@@ -31,14 +31,14 @@ rather not talk about.
 Anyway, I read through their entire repository and issue queue.   
 It was cool! I learned a thing, here I'll show you: 
 
-```ruby
-a = if false
-   'def'
-else 
-   nil
-end
+```  
+a = if false  
+       'def'
+    else 
+      nil
+    end
 
-a.nil? # = true
+a.nil? # = true  
 
 a = 'abc'
 a = if false
@@ -46,9 +46,11 @@ a = if false
     end
 
 a.nil? # = true
-```
-In Ruby, an if-clause necessarily assigns nil if it evaluates to false. What's interesting about that, are those gnarly conditionals that you sometimes see in some projects that are like:  
-```ruby  
+```  
+In Ruby, an if-clause necessarily assigns nil if it evaluates to false.  
+What's interesting about that, are those gnarly conditionals that you sometimes see in some projects that are like:  
+  
+```  
 a = if thing_that_could_be_true_or_false
       pass_this_thing
     else
