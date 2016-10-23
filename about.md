@@ -6,9 +6,9 @@ permalink: /about/
 
 ### About This Project
 
-This is the webiverse of Sarah Schultz, person of interest.
+This is the webiverse of Sarah Schultz.
 
-In 2013, Sarah was in a scooter accident, while living in San Francisco.  Recovering from this accident was tremendously boring and tedious, so she took the opportunity to finally read all the Ruby and Rails books she had been hoarding. 
+In 2013, Sarah was in a scooter accident.  Recovering from this accident was tremendously boring and tedious so she took the opportunity to finally read all the Ruby and Rails books she had been hoarding. 
 
 This site was born out of that downtime and has been mostly a hacking ground to test out ideas. Suffice to say, it has...evolved.
  
