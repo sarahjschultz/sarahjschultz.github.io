@@ -16,7 +16,7 @@ Suffice to say, it has...evolved.
 Here is the evolution in GIF form:
 ![dumb](/images/swaggerallday.gif)
 
-She works as a full-stack engineer at [ProductPlan](www.productplan.com) and likes to talk to people and laugh at jokes.
+She works as a full-stack engineer at [ProductPlan](http://www.productplan.com) and likes to talk to people and laugh at jokes.
 
 She also occasionally updates the blog on this site called Things I Did Wrong.  TIDW is a manifesto of mistake-making, and helpful reminders about how to not make those mistakes again.  This is likely very useless for you.
 
