@@ -117,18 +117,14 @@ footer {
   font: 16px/14px Courier;
 }
 
-/* #Links
-========================================== */
 a {
   text-decoration: none;
 }
 
-/* unvisited link */
 a:link {
   color: #333;
 }
 
-/* mouse over link */
 a:hover {
   color: #FF0000;
 }
