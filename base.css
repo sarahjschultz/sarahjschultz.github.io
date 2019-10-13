@@ -1,8 +1,7 @@
 body {
   margin:                35px;
   word-wrap:             break-word;
-  background-attachment: fixed;
-  background-image:      url("/images/subtle_zebra_3d.png");
+  font-family:   Courier;
 }
 
 header.masthead {
@@ -11,9 +10,7 @@ header.masthead {
   margin:        0 auto;
   padding:       0;
   max-width:     1024px;
-  font-family:   "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size:     18px;
-  border-bottom: 1px solid #B8B3B3;
+  font-size:     14px;
 }
 
 img {
@@ -22,21 +19,8 @@ img {
   margin:    2px;
 }
 
-.partyimage {
-  background-image: url("/images/party.png");
-}
-
-.boss {
-  background-color: #C2C2C2;
-}
-
-.boss:hover {
-  color:      white;
-  background: #FF0000;
-}
-
 .container {
-  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:        14px;
   color:       #444;
   line-height: 140%;
   max-width:   1024px;
@@ -47,7 +31,7 @@ img {
 
 .gif-container {
   background-color: white;
-  font:             21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:        14px;
   color:            #444;
   line-height:      130%;
   text-align:       left;
@@ -61,49 +45,19 @@ img {
 }
 
 .gif-header {
-  font:       21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:        14px;
   text-align: center;
 }
 
 .header-container {
-  font:        21px/14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:        14px;
   color:       #444;
   line-height: 180%;
   width:       490px;
 }
 
-.resume-container {
-  font:        14px/14px Courier;
-  color:       #444;
-  line-height: 110%;
-  text-align:  left;
-  max-width:   1280px;
-  margin:      auto;
-  position:    relative;
-}
-
-.resume-children {
-  color:            black;
-  padding-left:     30px;
-  padding-right:    30px;
-  border-top:       dotted;
-  border-top-width: thin;
-  background-color: transparent;
-}
-
-/* #Tables
-========================================== */
-table {
-  width: 100%;
-}
-
-td.content {
-  padding-left: 4em;
-  width:        30em
-}
-
 .sidebar {
-  font:           16px/14px Courier;
+  font-size:           14px;
   color:          #444;
   text-align:     right;
   vertical-align: top;
@@ -114,7 +68,7 @@ td.content {
 }
 
 footer {
-  font: 16px/14px Courier;
+  font-size:           14px;
 }
 
 a {
@@ -128,4 +82,3 @@ a:link {
 a:hover {
   color: #FF0000;
 }
-

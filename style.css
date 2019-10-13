@@ -62,7 +62,7 @@ html {
 
 body {
   background: #fff;
-  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  font: 18px/1.4 Courier;
   color: #333;
 }
 
@@ -74,31 +74,31 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Courier;
   color: #222;
   font-weight: bold;
-  
+
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
 }
-  
-h1 {  
+
+h1 {
   font-size: 30px;
   a {
     color: inherit;
   }
 }
 
-h2 {  
+h2 {
   font-size: 24px;
 }
 
-h3 {  
+h3 {
   font-size: 20px;
 }
 
-h4 {  
+h4 {
   font-size: 18px;
   color: #666;
 }
@@ -150,11 +150,6 @@ img {
   max-width: 100%;
 }
 
-.date {
-  font-style: italic;
-  color: #666;
-}
-
 ::-moz-selection {
   color: #000;
   background: #eee;
@@ -184,7 +179,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
 }
 
 .site-avatar {
@@ -206,7 +200,7 @@ img {
   margin: 0;
   color: #333;
   cursor: pointer;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  font-family: Courier;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -221,9 +215,9 @@ img {
 nav {
   float: right;
   margin-top: 23px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  font-family: Courier;
   font-size: 18px;
-  
+
   a {
     margin-left: 20px;
     color: #333;
@@ -232,46 +226,4 @@ nav {
     letter-spacing: 1px;
 
   }
-}
-
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid #eee;
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post { 
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid #666;
-    padding: 0.1em 1em;
-    color: #666;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
-
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #eee;
-}
-
-footer {
-  padding: 20px 0;
-  text-align: center;
 }
