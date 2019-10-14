@@ -152,14 +152,6 @@ img {
     clear: both;
 }
 
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
-
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
 .site-avatar {
   float: left;
   width: 70px;
