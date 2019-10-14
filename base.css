@@ -24,8 +24,6 @@ img {
   color:       #444;
   line-height: 140%;
   max-width:   1024px;
-  margin:      auto;
-  padding:     10px;
   position:    relative;
 }
 
@@ -59,12 +57,9 @@ img {
 .sidebar {
   font-size:           14px;
   color:          #444;
-  text-align:     right;
+  text-align:     left;
   vertical-align: top;
-  padding-left:   2em;
-  padding-right:  .5em;
   max-width:      1024px;
-  margin:         auto;
 }
 
 footer {
