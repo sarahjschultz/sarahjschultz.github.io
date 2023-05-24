@@ -70,10 +70,15 @@ a {
   text-decoration: none;
 }
 
-a:link {
+a:link:not(.calendar-link) {
   color: #333;
 }
 
 a:hover {
   color: #FF0000;
+}
+
+
+.hire-me-paragraph {
+  margin-top: 8px
 }
