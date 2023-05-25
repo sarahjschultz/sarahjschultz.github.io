@@ -78,7 +78,12 @@ a:hover {
   color: #FF0000;
 }
 
-
 .hire-me-paragraph {
   margin-top: 8px
+}
+
+.headshot {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
 }
